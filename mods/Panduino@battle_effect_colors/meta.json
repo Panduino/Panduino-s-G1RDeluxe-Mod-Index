@@ -1,0 +1,20 @@
+{
+  "id": "battle_effect_colors",
+  "title": "Battle Effect Colors",
+  "author": "Panduino",
+  "version": "1.0.0",
+  "categories": [
+    "ART"
+  ],
+  "summary": "Recolors Gen 1 battle move effects with themed four-color palettes.",
+  "repo": "https://github.com/Panduino/gen1-battle-effects",
+  "github": "Panduino/gen1-battle-effects",
+  "automatic_version_check": true,
+  "api": 2,
+  "profile": "content",
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [],
+  "conflicts": []
+}
