@@ -1,0 +1,193 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-04T12:04:55Z",
+  "count": 7,
+  "categories": [
+    "ART",
+    "CONTENT",
+    "GAMEPLAY",
+    "QOL"
+  ],
+  "mods": [
+    {
+      "folder": "Panduino@alternate_oak_intro",
+      "id": "alternate_oak_intro",
+      "title": "Alternate Oak Intro",
+      "author": "Panduino",
+      "version": "1.0.0",
+      "categories": [
+        "GAMEPLAY",
+        "CONTENT"
+      ],
+      "summary": "Choose your starter during Oak's intro and get into the adventure faster.",
+      "repo": "https://github.com/Panduino/oak-alternate-intro",
+      "github": "Panduino/oak-alternate-intro",
+      "automatic_version_check": true,
+      "api": 2,
+      "profile": "content",
+      "games": [
+        "gen1",
+        "gen3"
+      ],
+      "dependencies": [],
+      "conflicts": [],
+      "description_url": "data/mods/Panduino@alternate_oak_intro/description.md",
+      "update_check": "release has no .zip asset"
+    },
+    {
+      "folder": "Panduino@battle_effect_colors",
+      "id": "battle_effect_colors",
+      "title": "Battle Effect Colors",
+      "author": "Panduino",
+      "version": "1.0.0",
+      "categories": [
+        "ART"
+      ],
+      "summary": "Recolors Gen 1 battle move effects with themed four-color palettes.",
+      "repo": "https://github.com/Panduino/gen1-battle-effects",
+      "github": "Panduino/gen1-battle-effects",
+      "automatic_version_check": true,
+      "api": 2,
+      "profile": "content",
+      "permissions": [
+        "engine_internals"
+      ],
+      "dependencies": [],
+      "conflicts": [],
+      "description_url": "data/mods/Panduino@battle_effect_colors/description.md",
+      "update_check": "release has no .zip asset"
+    },
+    {
+      "folder": "Panduino@gen3_ball_rarity",
+      "id": "gen3_ball_rarity",
+      "title": "Gen 3 Ball Rarity",
+      "author": "Panduino",
+      "version": "1.0.0",
+      "categories": [
+        "ART",
+        "QOL"
+      ],
+      "summary": "Changes overworld item Poké Ball graphics based on the rarity of the item inside.",
+      "repo": "https://github.com/Panduino/gen3-ball-rarity",
+      "github": "Panduino/gen3-ball-rarity",
+      "automatic_version_check": true,
+      "api": 2,
+      "profile": "content",
+      "games": [
+        "firered",
+        "leafgreen"
+      ],
+      "dependencies": [],
+      "conflicts": [],
+      "description_url": "data/mods/Panduino@gen3_ball_rarity/description.md",
+      "update_check": "release has no .zip asset"
+    },
+    {
+      "folder": "Panduino@leaf_avatar",
+      "id": "leaf_avatar",
+      "title": "Choose Your Avatar",
+      "author": "Panduino",
+      "version": "1.2.0",
+      "categories": [
+        "ART",
+        "QOL"
+      ],
+      "summary": "Choose a male or female player avatar during Oak's introduction.",
+      "repo": "https://github.com/Panduino/leaf-avatar",
+      "github": "Panduino/leaf-avatar",
+      "automatic_version_check": true,
+      "api": 2,
+      "profile": "content",
+      "dependencies": [],
+      "conflicts": [],
+      "description_url": "data/mods/Panduino@leaf_avatar/description.md",
+      "update_check": "release has no .zip asset"
+    },
+    {
+      "folder": "Panduino@level_up_trade_evolutions",
+      "id": "level_up_trade_evolutions",
+      "title": "Level Up Evolutions Gen 3",
+      "author": "Panduino",
+      "version": "0.1.0",
+      "categories": [
+        "GAMEPLAY",
+        "QOL"
+      ],
+      "summary": "Replaces trade and other unavailable evolutions with practical in-game evolution methods.",
+      "repo": "https://github.com/Panduino/Level-Up-Evolutions-Gen-3",
+      "github": "Panduino/Level-Up-Evolutions-Gen-3",
+      "automatic_version_check": true,
+      "api": 2,
+      "profile": "overhaul",
+      "games": [
+        "firered",
+        "leafgreen"
+      ],
+      "permissions": [
+        "engine_internals"
+      ],
+      "dependencies": [
+        "national_dex_gen3"
+      ],
+      "conflicts": [],
+      "description_url": "data/mods/Panduino@level_up_trade_evolutions/description.md",
+      "update_check": "no releases yet"
+    },
+    {
+      "folder": "Panduino@mew_event",
+      "id": "mew_event",
+      "title": "Mew Under the Truck",
+      "author": "Panduino",
+      "version": "0.1.0",
+      "categories": [
+        "CONTENT",
+        "GAMEPLAY"
+      ],
+      "summary": "Adds a post-Champion Mew encounter under the S.S. Anne truck.",
+      "repo": "https://github.com/Panduino/Mew-Under-Truck-Gen3",
+      "github": "Panduino/Mew-Under-Truck-Gen3",
+      "automatic_version_check": true,
+      "api": 2,
+      "profile": "overhaul",
+      "games": [
+        "firered",
+        "leafgreen"
+      ],
+      "permissions": [
+        "engine_internals"
+      ],
+      "dependencies": [],
+      "conflicts": [],
+      "description_url": "data/mods/Panduino@mew_event/description.md",
+      "update_check": "release has no .zip asset"
+    },
+    {
+      "folder": "Panduino@navel_rock_birth_island_events",
+      "id": "navel_rock_birth_island_events",
+      "title": "Navel Rock + Birth Island Restoration",
+      "author": "Panduino",
+      "version": "0.1.0",
+      "categories": [
+        "CONTENT",
+        "GAMEPLAY"
+      ],
+      "summary": "Restores Navel Rock and Birth Island access through new in-game ticket unlocks.",
+      "repo": "https://github.com/Panduino/Navel-Rock-and-Birth-Island-Restoration",
+      "github": "Panduino/Navel-Rock-and-Birth-Island-Restoration",
+      "automatic_version_check": true,
+      "api": 2,
+      "profile": "overhaul",
+      "games": [
+        "firered",
+        "leafgreen"
+      ],
+      "permissions": [
+        "engine_internals"
+      ],
+      "dependencies": [],
+      "conflicts": [],
+      "description_url": "data/mods/Panduino@navel_rock_birth_island_events/description.md",
+      "update_check": "release has no .zip asset"
+    }
+  ]
+}
