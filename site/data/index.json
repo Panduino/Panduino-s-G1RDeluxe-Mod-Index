@@ -1,11 +1,12 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-04T12:12:41Z",
-  "count": 8,
+  "generated_at": "2026-10-04T13:07:27Z",
+  "count": 10,
   "categories": [
     "ART",
     "CONTENT",
     "GAMEPLAY",
+    "GRAPHICS",
     "QOL"
   ],
   "mods": [
@@ -85,7 +86,7 @@
       ],
       "conflicts": [],
       "description_url": "data/mods/Panduino@darkrai_cresselia_events/description.md",
-      "update_check": "no releases yet"
+      "update_check": "release has no .zip asset"
     },
     {
       "folder": "Panduino@gen3_ball_rarity",
@@ -110,6 +111,33 @@
       "dependencies": [],
       "conflicts": [],
       "description_url": "data/mods/Panduino@gen3_ball_rarity/description.md",
+      "update_check": "release has no .zip asset"
+    },
+    {
+      "folder": "Panduino@gen3_party_icons_shinies",
+      "id": "gen3_party_icons_shinies",
+      "title": "Gen 3 Party Icons + Shinies",
+      "author": "Panduino",
+      "version": "1.0.0",
+      "categories": [
+        "GRAPHICS"
+      ],
+      "summary": "Replaces FireRed and LeafGreen party and PC icons with larger icons, including shiny variants and Gen 4 support.",
+      "repo": "https://github.com/Panduino/Gen-3-Party-Icons-Shinies",
+      "github": "Panduino/Gen-3-Party-Icons-Shinies",
+      "automatic_version_check": true,
+      "api": 2,
+      "profile": "content",
+      "games": [
+        "firered",
+        "leafgreen"
+      ],
+      "permissions": [
+        "engine_internals"
+      ],
+      "dependencies": [],
+      "conflicts": [],
+      "description_url": "data/mods/Panduino@gen3_party_icons_shinies/description.md",
       "update_check": "release has no .zip asset"
     },
     {
@@ -162,6 +190,36 @@
       "conflicts": [],
       "description_url": "data/mods/Panduino@level_up_trade_evolutions/description.md",
       "update_check": "no releases yet"
+    },
+    {
+      "folder": "Panduino@manaphy_phione_event",
+      "id": "manaphy_phione_event",
+      "title": "Manaphy + Phione Event",
+      "author": "Panduino",
+      "version": "0.1.0",
+      "categories": [
+        "CONTENT",
+        "GAMEPLAY"
+      ],
+      "summary": "Adds a post-Champion Manaphy Egg gift and Manaphy + Ditto breeding for Phione.",
+      "repo": "https://github.com/Panduino/manaphy-phione-event",
+      "github": "Panduino/manaphy-phione-event",
+      "automatic_version_check": true,
+      "api": 2,
+      "profile": "overhaul",
+      "games": [
+        "firered",
+        "leafgreen"
+      ],
+      "permissions": [
+        "engine_internals"
+      ],
+      "dependencies": [
+        "national_dex_gen3"
+      ],
+      "conflicts": [],
+      "description_url": "data/mods/Panduino@manaphy_phione_event/description.md",
+      "update_check": "release has no .zip asset"
     },
     {
       "folder": "Panduino@mew_event",
