@@ -1,0 +1,18 @@
+{
+  "id": "leaf_avatar",
+  "title": "Choose Your Avatar",
+  "author": "Panduino",
+  "version": "1.2.0",
+  "categories": [
+    "ART",
+    "QOL"
+  ],
+  "summary": "Choose a male or female player avatar during Oak's introduction.",
+  "repo": "https://github.com/Panduino/leaf-avatar",
+  "github": "Panduino/leaf-avatar",
+  "automatic_version_check": true,
+  "api": 2,
+  "profile": "content",
+  "dependencies": [],
+  "conflicts": []
+}
