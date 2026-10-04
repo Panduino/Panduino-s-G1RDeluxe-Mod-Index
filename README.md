@@ -24,5 +24,6 @@ The index points to the GitHub releases for each mod. It does not contain the mo
 - Darkrai + Cresselia Events
 - Gen 3 Party Icons + Shinies
 - Manaphy + Phione Event
+- Balanced EXP Share
 
 New releases are picked up automatically by the index refresh.
