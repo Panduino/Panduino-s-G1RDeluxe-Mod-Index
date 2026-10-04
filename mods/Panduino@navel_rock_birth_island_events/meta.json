@@ -1,0 +1,25 @@
+{
+  "id": "navel_rock_birth_island_events",
+  "title": "Navel Rock + Birth Island Restoration",
+  "author": "Panduino",
+  "version": "0.1.0",
+  "categories": [
+    "CONTENT",
+    "GAMEPLAY"
+  ],
+  "summary": "Restores Navel Rock and Birth Island access through new in-game ticket unlocks.",
+  "repo": "https://github.com/Panduino/Navel-Rock-and-Birth-Island-Restoration",
+  "github": "Panduino/Navel-Rock-and-Birth-Island-Restoration",
+  "automatic_version_check": true,
+  "api": 2,
+  "profile": "overhaul",
+  "games": [
+    "firered",
+    "leafgreen"
+  ],
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [],
+  "conflicts": []
+}
