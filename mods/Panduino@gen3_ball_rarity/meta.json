@@ -1,0 +1,22 @@
+{
+  "id": "gen3_ball_rarity",
+  "title": "Gen 3 Ball Rarity",
+  "author": "Panduino",
+  "version": "1.0.0",
+  "categories": [
+    "ART",
+    "QOL"
+  ],
+  "summary": "Changes overworld item Poké Ball graphics based on the rarity of the item inside.",
+  "repo": "https://github.com/Panduino/gen3-ball-rarity",
+  "github": "Panduino/gen3-ball-rarity",
+  "automatic_version_check": true,
+  "api": 2,
+  "profile": "content",
+  "games": [
+    "firered",
+    "leafgreen"
+  ],
+  "dependencies": [],
+  "conflicts": []
+}
