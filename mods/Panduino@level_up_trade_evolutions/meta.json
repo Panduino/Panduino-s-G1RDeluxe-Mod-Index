@@ -1,0 +1,27 @@
+{
+  "id": "level_up_trade_evolutions",
+  "title": "Level Up Evolutions Gen 3",
+  "author": "Panduino",
+  "version": "0.1.0",
+  "categories": [
+    "GAMEPLAY",
+    "QOL"
+  ],
+  "summary": "Replaces trade and other unavailable evolutions with practical in-game evolution methods.",
+  "repo": "https://github.com/Panduino/Level-Up-Evolutions-Gen-3",
+  "github": "Panduino/Level-Up-Evolutions-Gen-3",
+  "automatic_version_check": true,
+  "api": 2,
+  "profile": "overhaul",
+  "games": [
+    "firered",
+    "leafgreen"
+  ],
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [
+    "national_dex_gen3"
+  ],
+  "conflicts": []
+}
