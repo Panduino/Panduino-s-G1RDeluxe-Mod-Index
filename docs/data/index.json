@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-04T13:20:00Z",
+  "generated_at": "2026-10-04T13:23:48Z",
   "count": 11,
   "categories": [
     "ART",
@@ -15,7 +15,7 @@
       "id": "alternate_oak_intro",
       "title": "Alternate Oak Intro",
       "author": "Panduino",
-      "version": "1.0.0",
+      "version": "2.2",
       "categories": [
         "GAMEPLAY",
         "CONTENT"
@@ -33,7 +33,21 @@
       "dependencies": [],
       "conflicts": [],
       "description_url": "data/mods/Panduino@alternate_oak_intro/description.md",
-      "update_check": "release has no .zip asset"
+      "update_check": "ok",
+      "latest": {
+        "version": "2.2",
+        "tag": "v2.2",
+        "name": "Alternate Oak Intro v2.2",
+        "prerelease": false,
+        "published_at": "2026-10-03T18:46:26Z",
+        "zip": {
+          "name": "v2.2.zip",
+          "url": "https://api.github.com/repos/Panduino/oak-alternate-intro/zipball/v2.2",
+          "size": null,
+          "source": true
+        }
+      },
+      "last_release": "2026-10-03"
     },
     {
       "folder": "Panduino@balanced_exp_share_gen3",
@@ -67,7 +81,7 @@
       "id": "battle_effect_colors",
       "title": "Battle Effect Colors",
       "author": "Panduino",
-      "version": "1.0.0",
+      "version": "1.0.2",
       "categories": [
         "ART"
       ],
@@ -83,14 +97,28 @@
       "dependencies": [],
       "conflicts": [],
       "description_url": "data/mods/Panduino@battle_effect_colors/description.md",
-      "update_check": "release has no .zip asset"
+      "update_check": "ok",
+      "latest": {
+        "version": "1.0.2",
+        "tag": "v1.0.2",
+        "name": "Battle Effect Colors v1.0.2",
+        "prerelease": false,
+        "published_at": "2026-09-25T02:55:34Z",
+        "zip": {
+          "name": "v1.0.2.zip",
+          "url": "https://api.github.com/repos/Panduino/gen1-battle-effects/zipball/v1.0.2",
+          "size": null,
+          "source": true
+        }
+      },
+      "last_release": "2026-09-25"
     },
     {
       "folder": "Panduino@darkrai_cresselia_events",
       "id": "darkrai_cresselia_events",
       "title": "Darkrai + Cresselia Events",
       "author": "Panduino",
-      "version": "0.1.0",
+      "version": "1.0",
       "categories": [
         "CONTENT",
         "GAMEPLAY"
@@ -113,14 +141,28 @@
       ],
       "conflicts": [],
       "description_url": "data/mods/Panduino@darkrai_cresselia_events/description.md",
-      "update_check": "release has no .zip asset"
+      "update_check": "ok",
+      "latest": {
+        "version": "1.0",
+        "tag": "v1.0",
+        "name": "Darkrai/Cresselia Event 1.0",
+        "prerelease": false,
+        "published_at": "2026-10-04T12:14:56Z",
+        "zip": {
+          "name": "v1.0.zip",
+          "url": "https://api.github.com/repos/Panduino/Darkrai-Cresselia-Event/zipball/v1.0",
+          "size": null,
+          "source": true
+        }
+      },
+      "last_release": "2026-10-04"
     },
     {
       "folder": "Panduino@gen3_ball_rarity",
       "id": "gen3_ball_rarity",
       "title": "Gen 3 Ball Rarity",
       "author": "Panduino",
-      "version": "1.0.0",
+      "version": "1.0",
       "categories": [
         "ART",
         "QOL"
@@ -138,14 +180,28 @@
       "dependencies": [],
       "conflicts": [],
       "description_url": "data/mods/Panduino@gen3_ball_rarity/description.md",
-      "update_check": "release has no .zip asset"
+      "update_check": "ok",
+      "latest": {
+        "version": "1.0",
+        "tag": "v1.0",
+        "name": "Dynamic Overworld Items",
+        "prerelease": false,
+        "published_at": "2026-10-01T07:22:27Z",
+        "zip": {
+          "name": "v1.0.zip",
+          "url": "https://api.github.com/repos/Panduino/gen3-ball-rarity/zipball/v1.0",
+          "size": null,
+          "source": true
+        }
+      },
+      "last_release": "2026-10-01"
     },
     {
       "folder": "Panduino@gen3_party_icons_shinies",
       "id": "gen3_party_icons_shinies",
       "title": "Gen 3 Party Icons + Shinies",
       "author": "Panduino",
-      "version": "1.0.0",
+      "version": "1.0",
       "categories": [
         "GRAPHICS"
       ],
@@ -165,14 +221,28 @@
       "dependencies": [],
       "conflicts": [],
       "description_url": "data/mods/Panduino@gen3_party_icons_shinies/description.md",
-      "update_check": "release has no .zip asset"
+      "update_check": "ok",
+      "latest": {
+        "version": "1.0",
+        "tag": "v1.0",
+        "name": "Gen 3 Shiny Party Icons",
+        "prerelease": false,
+        "published_at": "2026-10-04T12:42:48Z",
+        "zip": {
+          "name": "v1.0.zip",
+          "url": "https://api.github.com/repos/Panduino/Gen-3-Party-Icons-Shinies/zipball/v1.0",
+          "size": null,
+          "source": true
+        }
+      },
+      "last_release": "2026-10-04"
     },
     {
       "folder": "Panduino@leaf_avatar",
       "id": "leaf_avatar",
       "title": "Choose Your Avatar",
       "author": "Panduino",
-      "version": "1.2.0",
+      "version": "3.0",
       "categories": [
         "ART",
         "QOL"
@@ -186,7 +256,21 @@
       "dependencies": [],
       "conflicts": [],
       "description_url": "data/mods/Panduino@leaf_avatar/description.md",
-      "update_check": "release has no .zip asset"
+      "update_check": "ok",
+      "latest": {
+        "version": "3.0",
+        "tag": "v3.0",
+        "name": "Choose Your Avatar - RBY Style Leaf Sprite",
+        "prerelease": false,
+        "published_at": "2026-09-25T22:14:14Z",
+        "zip": {
+          "name": "v3.0.zip",
+          "url": "https://api.github.com/repos/Panduino/leaf-avatar/zipball/v3.0",
+          "size": null,
+          "source": true
+        }
+      },
+      "last_release": "2026-09-25"
     },
     {
       "folder": "Panduino@level_up_trade_evolutions",
@@ -223,7 +307,7 @@
       "id": "manaphy_phione_event",
       "title": "Manaphy + Phione Event",
       "author": "Panduino",
-      "version": "0.1.0",
+      "version": "1.0",
       "categories": [
         "CONTENT",
         "GAMEPLAY"
@@ -246,14 +330,28 @@
       ],
       "conflicts": [],
       "description_url": "data/mods/Panduino@manaphy_phione_event/description.md",
-      "update_check": "release has no .zip asset"
+      "update_check": "ok",
+      "latest": {
+        "version": "1.0",
+        "tag": "v1.0",
+        "name": "Manaphy + Phione v1.0",
+        "prerelease": false,
+        "published_at": "2026-10-04T13:05:22Z",
+        "zip": {
+          "name": "v1.0.zip",
+          "url": "https://api.github.com/repos/Panduino/manaphy-phione-event/zipball/v1.0",
+          "size": null,
+          "source": true
+        }
+      },
+      "last_release": "2026-10-04"
     },
     {
       "folder": "Panduino@mew_event",
       "id": "mew_event",
       "title": "Mew Under the Truck",
       "author": "Panduino",
-      "version": "0.1.0",
+      "version": "1.0",
       "categories": [
         "CONTENT",
         "GAMEPLAY"
@@ -274,14 +372,28 @@
       "dependencies": [],
       "conflicts": [],
       "description_url": "data/mods/Panduino@mew_event/description.md",
-      "update_check": "release has no .zip asset"
+      "update_check": "ok",
+      "latest": {
+        "version": "1.0",
+        "tag": "1.0",
+        "name": "Mew Under Truck 1.0",
+        "prerelease": false,
+        "published_at": "2026-10-04T07:42:34Z",
+        "zip": {
+          "name": "1.0.zip",
+          "url": "https://api.github.com/repos/Panduino/Mew-Under-Truck-Gen3/zipball/1.0",
+          "size": null,
+          "source": true
+        }
+      },
+      "last_release": "2026-10-04"
     },
     {
       "folder": "Panduino@navel_rock_birth_island_events",
       "id": "navel_rock_birth_island_events",
       "title": "Navel Rock + Birth Island Restoration",
       "author": "Panduino",
-      "version": "0.1.0",
+      "version": "1.0",
       "categories": [
         "CONTENT",
         "GAMEPLAY"
@@ -302,7 +414,21 @@
       "dependencies": [],
       "conflicts": [],
       "description_url": "data/mods/Panduino@navel_rock_birth_island_events/description.md",
-      "update_check": "release has no .zip asset"
+      "update_check": "ok",
+      "latest": {
+        "version": "1.0",
+        "tag": "v1.0",
+        "name": "Navel Rock/Birth Island Restoration",
+        "prerelease": false,
+        "published_at": "2026-10-04T11:57:39Z",
+        "zip": {
+          "name": "v1.0.zip",
+          "url": "https://api.github.com/repos/Panduino/Navel-Rock-and-Birth-Island-Restoration/zipball/v1.0",
+          "size": null,
+          "source": true
+        }
+      },
+      "last_release": "2026-10-04"
     }
   ]
 }
