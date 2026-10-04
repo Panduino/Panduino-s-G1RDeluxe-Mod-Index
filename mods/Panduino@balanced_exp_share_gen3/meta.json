@@ -1,0 +1,17 @@
+{
+  "id": "balanced_exp_share_gen3",
+  "title": "Balanced EXP Share",
+  "author": "Panduino",
+  "version": "1.0.0",
+  "categories": ["GAMEPLAY"],
+  "summary": "Adds balanced party-wide catch-up EXP while preserving normal EXP for Pokemon that participate in battle.",
+  "repo": "https://github.com/Panduino/exp-shareGen3",
+  "github": "Panduino/exp-shareGen3",
+  "automatic_version_check": true,
+  "api": 2,
+  "profile": "content",
+  "games": ["firered", "leafgreen"],
+  "permissions": ["engine_internals"],
+  "dependencies": [],
+  "conflicts": []
+}
