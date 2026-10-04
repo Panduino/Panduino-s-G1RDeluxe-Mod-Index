@@ -1,4 +1,4 @@
-# Panduino's G1R Deluxe Mod Index
+# MJ's (Panduino) G1R Deluxe Mod Index
 
 A small index for my released G1R Deluxe mods.
 
