@@ -30,10 +30,15 @@ async function latestRelease(slug) {
   if (res.status === 403) throw new Error('GitHub rate limit reached (set GITHUB_TOKEN)');
   if (!res.ok) return { skip: `HTTP ${res.status}` };
   const r = await res.json();
-  // A source archive is not a mod: codeload returns the repository, whose
-  // folder layout the loader cannot use. Only a real .zip asset counts.
-  const zip = (r.assets || []).find((a) => a.name.endsWith('.zip'));
-  if (!zip) return { skip: 'release has no .zip asset' };
+  // Prefer an explicitly uploaded mod ZIP, but Panduino's standalone mod
+  // repositories are themselves installable packages: manifest.json/main.lua
+  // live at the repository root. GitHub's release source ZIP is therefore a
+  // valid fallback. The launcher already extracts ZIPs and can descend through
+  // the single top-level directory GitHub adds to source archives.
+  const asset = (r.assets || []).find((a) => a.name.endsWith('.zip'));
+  const zip = asset
+    ? { name: asset.name, url: asset.browser_download_url, size: asset.size }
+    : { name: `${r.tag_name}.zip`, url: r.zipball_url, size: null, source: true };
   return {
     latest: {
       version: r.tag_name.replace(/^v/, ''),
@@ -41,7 +46,7 @@ async function latestRelease(slug) {
       name: r.name || r.tag_name,
       prerelease: !!r.prerelease,
       published_at: r.published_at,
-      zip: { name: zip.name, url: zip.browser_download_url, size: zip.size },
+      zip,
     },
   };
 }
