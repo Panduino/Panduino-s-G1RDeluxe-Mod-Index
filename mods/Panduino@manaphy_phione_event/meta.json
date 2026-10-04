@@ -1,0 +1,17 @@
+{
+  "id": "manaphy_phione_event",
+  "title": "Manaphy + Phione Event",
+  "author": "Panduino",
+  "version": "0.1.0",
+  "categories": ["CONTENT", "GAMEPLAY"],
+  "summary": "Adds a post-Champion Manaphy Egg gift and Manaphy + Ditto breeding for Phione.",
+  "repo": "https://github.com/Panduino/manaphy-phione-event",
+  "github": "Panduino/manaphy-phione-event",
+  "automatic_version_check": true,
+  "api": 2,
+  "profile": "overhaul",
+  "games": ["firered", "leafgreen"],
+  "permissions": ["engine_internals"],
+  "dependencies": ["national_dex_gen3"],
+  "conflicts": []
+}
