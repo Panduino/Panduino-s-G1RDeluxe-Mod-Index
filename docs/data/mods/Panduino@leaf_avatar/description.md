@@ -1,3 +1,3 @@
 # Choose Your Avatar
 
-Adds a boy/girl choice to Oak's introduction and uses the selected player avatar throughout the game. The choice is made at the start of a new game and stays locked for that save.
+Adds a player-character choice to Professor Oak's introduction. Your selected avatar is used throughout the adventure for overworld movement, cycling, fishing, battles, the Trainer Card, and the Hall of Fame.

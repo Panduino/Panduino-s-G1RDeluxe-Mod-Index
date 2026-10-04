@@ -1,3 +1,3 @@
 # Alternate Oak Intro
 
-Reworks the opening of the game so you choose your starter during Oak's introduction and can get started on your journey without the normal lab sequence.
+Reworks the beginning of the game so you choose and nickname your starter during Professor Oak's introduction, then begin your journey immediately. Early-game events, key items, and the first rival encounter are adjusted around the new opening.

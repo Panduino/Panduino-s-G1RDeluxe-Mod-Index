@@ -1,5 +1,3 @@
 # Manaphy + Phione Event
 
-After becoming Champion, visit the Route 5 Day Care to receive a Manaphy Egg. Once Manaphy hatches, breeding Manaphy with Ditto can produce a Phione Egg.
-
-Requires National Dex Gen 3.
+Adds Manaphy and Phione to Kanto through the Route 5 Day Care. Receive a Manaphy Egg after becoming Champion, then breed the hatched Manaphy with Ditto to obtain Phione.

@@ -1,7 +1,3 @@
 # Darkrai + Cresselia Events
 
-Adds postgame Darkrai and Cresselia events to FireRed and LeafGreen.
-
-Darkrai appears at the top of Pokémon Tower at night after becoming Champion and becomes a roaming Pokémon after its event. After witnessing the Darkrai event, Cresselia can appear at night in the old fossil chamber of Mt. Moon.
-
-Requires Navel Rock + Birth Island Restoration for the expanded roaming Pokémon system.
+Adds a pair of nighttime Generation IV legendary events to the FireRed and LeafGreen postgame. Encounter Darkrai at Pokémon Tower before hunting it as a roamer, then discover Cresselia in Mt. Moon.

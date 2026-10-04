@@ -1,3 +1,3 @@
 # Level Up Evolutions Gen 3
 
-Makes trade evolutions and several Generation 4 evolutions obtainable through level-up, held-item, time-of-day, or stone methods in FireRed and LeafGreen. Requires National Dex Gen 3.
+Makes trade evolutions and otherwise unavailable Generation IV evolutions obtainable in a single-player FireRed or LeafGreen save. Pokémon receive practical level, held-item, stone, and time-based evolution methods.
