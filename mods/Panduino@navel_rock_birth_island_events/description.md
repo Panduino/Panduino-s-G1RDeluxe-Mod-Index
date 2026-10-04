@@ -1,3 +1,3 @@
 # Navel Rock + Birth Island Restoration
 
-Restores access to Navel Rock and Birth Island through in-game MysticTicket and AuroraTicket unlocks. It also allows Raikou, Entei, and Suicune to roam in the same save.
+Restores Navel Rock and Birth Island as earnable postgame destinations. The MysticTicket and AuroraTicket are tied to in-game accomplishments, and Raikou, Entei, and Suicune can all roam in the same save.
