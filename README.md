@@ -23,6 +23,7 @@ The index points to the GitHub releases for each mod. It does not contain the mo
 - [Navel Rock + Birth Island Restoration](https://github.com/Panduino/Navel-Rock-and-Birth-Island-Restoration)
 - [Darkrai + Cresselia Events](https://github.com/Panduino/Darkrai-Cresselia-Event)
 - [Lake Trio Events](https://github.com/Panduino/lake-trio-event)
+- [Latios + Latias Roamers](https://github.com/Panduino/Latios-and-Latias-Roamers)
 - [Gen 3 Party Icons + Shinies](https://github.com/Panduino/Gen-3-Party-Icons-Shinies)
 - [Manaphy + Phione Event](https://github.com/Panduino/manaphy-phione-event)
 - [Balanced EXP Share](https://github.com/Panduino/exp-shareGen3)
