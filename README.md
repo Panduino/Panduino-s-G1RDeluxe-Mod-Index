@@ -21,5 +21,6 @@ The index points to the GitHub releases for each mod. It does not contain the mo
 - Mew Under the Truck
 - Level Up Evolutions Gen 3
 - Navel Rock + Birth Island Restoration
+- Darkrai + Cresselia Events
 
 New releases are picked up automatically by the index refresh.
