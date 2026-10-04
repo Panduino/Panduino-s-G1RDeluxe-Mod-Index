@@ -1,0 +1,22 @@
+{
+  "id": "alternate_oak_intro",
+  "title": "Alternate Oak Intro",
+  "author": "Panduino",
+  "version": "1.0.0",
+  "categories": [
+    "GAMEPLAY",
+    "CONTENT"
+  ],
+  "summary": "Choose your starter during Oak's intro and get into the adventure faster.",
+  "repo": "https://github.com/Panduino/oak-alternate-intro",
+  "github": "Panduino/oak-alternate-intro",
+  "automatic_version_check": true,
+  "api": 2,
+  "profile": "content",
+  "games": [
+    "gen1",
+    "gen3"
+  ],
+  "dependencies": [],
+  "conflicts": []
+}
