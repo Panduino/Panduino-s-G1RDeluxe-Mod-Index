@@ -1,0 +1,17 @@
+{
+  "id": "gen3_party_icons_shinies",
+  "title": "Gen 3 Party Icons + Shinies",
+  "author": "Panduino",
+  "version": "1.0.0",
+  "categories": ["GRAPHICS"],
+  "summary": "Replaces FireRed and LeafGreen party and PC icons with larger icons, including shiny variants and Gen 4 support.",
+  "repo": "https://github.com/Panduino/Gen-3-Party-Icons-Shinies",
+  "github": "Panduino/Gen-3-Party-Icons-Shinies",
+  "automatic_version_check": true,
+  "api": 2,
+  "profile": "content",
+  "games": ["firered", "leafgreen"],
+  "permissions": ["engine_internals"],
+  "dependencies": [],
+  "conflicts": []
+}
