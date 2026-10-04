@@ -1,0 +1,25 @@
+{
+  "id": "mew_event",
+  "title": "Mew Under the Truck",
+  "author": "Panduino",
+  "version": "0.1.0",
+  "categories": [
+    "CONTENT",
+    "GAMEPLAY"
+  ],
+  "summary": "Adds a post-Champion Mew encounter under the S.S. Anne truck.",
+  "repo": "https://github.com/Panduino/Mew-Under-Truck-Gen3",
+  "github": "Panduino/Mew-Under-Truck-Gen3",
+  "automatic_version_check": true,
+  "api": 2,
+  "profile": "overhaul",
+  "games": [
+    "firered",
+    "leafgreen"
+  ],
+  "permissions": [
+    "engine_internals"
+  ],
+  "dependencies": [],
+  "conflicts": []
+}
